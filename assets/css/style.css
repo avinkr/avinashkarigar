@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #149ddd;
+  background: #00aeff;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -98,7 +98,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
+  background: #1e3bbe;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
