@@ -395,13 +395,13 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #050d18;
+  color: #385f97;
   margin-bottom: 10px;
 }
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4edf9;
+  background: #88a6ce;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -695,7 +695,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: #ff0000;
   float: left;
   width: 44px;
   height: 44px;
